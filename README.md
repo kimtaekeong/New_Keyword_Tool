@@ -21,4 +21,4 @@
     crawling_main.py
 - 회의 요약
 
-    meeting_summary.pt
+    meeting_summary.py
