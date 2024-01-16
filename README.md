@@ -11,10 +11,14 @@
 
 ## 기능
 - 실시간 Speech-To-Text
+
     google_stt_mic.py
 - 핵심 키워드 추출
+
     extract_keywords.py
 - 키워드 기반 뉴스 크롤링
+
     crawling_main.py
 - 회의 요약
+
     meeting_summary.pt
