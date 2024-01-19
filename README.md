@@ -22,3 +22,6 @@
 - 회의 요약
 
     meeting_summary.py
+
+  > 시연 영상
+  https://www.notion.so/New_Keyword_Tool-ee8e418fcaac4a3fa3d9b50996cfda9b?pvs=4
