@@ -7,7 +7,7 @@
 - 어떤 보조?
     
     회의 중에 나온 핵심 키워드의 최신 동향 파악을 위해 !
-![image](https://github.com/kimtaekeong/New_Keyword_Tool/assets/113247215/3068b520-c80c-41c7-998b-aa8bb777f6e8)
+[![image](https://github.com/kimtaekeong/New_Keyword_Tool/assets/113247215/3068b520-c80c-41c7-998b-aa8bb777f6e8)](https://organized-atlasaurus-778.notion.site/New-Keyword-Tool-aabadd3e21bc4e8781f62ea36195de1a?pvs=4)
 
 > **기능**
 - 실시간 Speech-To-Text
@@ -24,4 +24,4 @@
     meeting_summary.py
 
   > 시연 영상
-  https://www.notion.so/New_Keyword_Tool-ee8e418fcaac4a3fa3d9b50996cfda9b?pvs=4
+  [https://www.notion.so/New_Keyword_Tool-ee8e418fcaac4a3fa3d9b50996cfda9b?pvs=4](https://www.notion.so/Hi-I-m-Taekyung-3e7539cbd68e41ff8e842a6f013d62e2)
