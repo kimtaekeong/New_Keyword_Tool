@@ -24,4 +24,4 @@
     meeting_summary.py
 
   > 시연 영상
-  [https://www.notion.so/New_Keyword_Tool-ee8e418fcaac4a3fa3d9b50996cfda9b?pvs=4](https://www.notion.so/Hi-I-m-Taekyung-3e7539cbd68e41ff8e842a6f013d62e2)
+  https://www.youtube.com/watch?v=SuHflE7gDuc
