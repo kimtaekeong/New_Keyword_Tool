@@ -24,4 +24,4 @@
     meeting_summary.py
 
   > 시연 영상
-  https://www.youtube.com/watch?v=SuHflE7gDuc
+  > https://www.youtube.com/watch?v=SuHflE7gDuc
